@@ -1,1 +1,1 @@
-# Mixture_Model
+# Finite_Mixture_Model
