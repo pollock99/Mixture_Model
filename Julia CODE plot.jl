@@ -5,9 +5,9 @@ using DataFrames
 using Plots
 using Vega
 
-data1=CSV.read("C:/Users/i99ks/OneDrive/바탕 화면/TA/data/csv/s1.csv",DataFrame)
-data2=CSV.read("C:/Users/i99ks/OneDrive/바탕 화면/TA/data/csv/s2.csv",DataFrame)
-data3=CSV.read("C:/Users/i99ks/OneDrive/바탕 화면/TA/data/csv/seoul.csv",DataFrame)
+data1=CSV.read("C:/~/s1.csv",DataFrame)
+data2=CSV.read("C:/~/s2.csv",DataFrame)
+data3=CSV.read("C:/~/seoul.csv",DataFrame)
 
 
 y1=data1[!,"y"]
